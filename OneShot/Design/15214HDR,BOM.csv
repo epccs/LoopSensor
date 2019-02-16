@@ -1,0 +1,14 @@
+LINE, REF, QTY, EPCCS TYP, EPCCS PN, MFG@PN, DESCRIPTION, NOTES, COST EA, LINE COST,BIN
+,,,,,,OneShot Headers,,,TOTAL,
+,,,,,,2/15/19 (15214^2),,,=SUM(J5:J100),
+,,,,,,,,,,
+1,D1,2,D-LED,5MMGN,CREE@C503B-GCN-CY0C0791,LED GREEN 5MM 3.2V@20MA,(1),0.24,=C5*I5,ONESHOT
+2,D2,2,D-LED,5MMRD,CREE@C503B-RCN-CW0Z0AA1,LED RED 5MM 2.1V@20MA,(1),0.15,=C6*I6,ONESHOT
+3,J1,=4/16,J-HDR3.5mm,PST1.0&16-3.5,PHOENIX_CONTACT@1945232,CONN HEADER STRIP PIN 16POS 3.5MM,(2 4),1.13,=C7*I7,SHLD
+,,,,,,,,,,
+,,,,,,NOTES,,,,
+,,,,,,(1) Alternate part with same or better rating allowed,,,,
+,,,,,,(2) PST 1.0/4-3.5 Mates with PLUG: PT 1.5/4-PVH-3.5,,,,
+,,,,,,(4) Cut header to needed size,,,,
+
+
