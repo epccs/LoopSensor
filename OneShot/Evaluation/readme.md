@@ -42,6 +42,8 @@ Run wires under LED's and dip in Liquid Tape.
 
 ![OneShot^2_LiqTape](./15214^2_LiqTapeRdy4.jpg "OneShot^2 LiqTape")
 
+![OneShot^2_LiqTapeDip](./15214^2_LiqTapeFreshDip.jpg "OneShot^2 LiqTapeDip")
+
 It coats like a thick paste but after curing a day some of its volume is lost. It takes a few days before the outgassing volatiles are difficult to detect.
 
 
